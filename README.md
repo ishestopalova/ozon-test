@@ -19,3 +19,4 @@
 # Системность мышления
 ![alt text](https://github.com/ishestopalova/ozon-test/blob/main/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.drawio.png "Блок-схема")
 # Обратная связь
+Обратная связь на статью о [Рекламной платформе](https://docs.ozon.ru/performance)
